@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedro Bandeira <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
+<h1 align="center">Hi 👋, I'm Pedro Bandeira </h1>
 <h3 align="center">Python student from Brazil. &#127470;&#127475</h3>
 
 <a target="_blank" align="center">
